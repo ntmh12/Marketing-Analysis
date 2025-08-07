@@ -53,12 +53,11 @@ The dataset was collected from multiple sources, including user activity logs, s
 
 ## 🗝️ Additional Highlights
 
-- Drill-through capabilities from total metrics to product-level reviews  
-- Monthly sentiment trends and rating distribution  
-- Visual funnel showing customer journey and drop-off points  
-- Identification of top converting and lowest-rated products  
-- Sentiment-linked analysis to customer rating and product category  
-- Social media engagement visualized by content type and time  
+- Visual conversion funnel shows a sharp drop-off between product views, clicks, and purchases — highlighting potential friction points in the customer journey  
+- Kayak, Ski Boots, and Surfboard have the highest conversion rates (up to 21.4%), suggesting strong interest or seasonal demand  
+- Sentiment analysis reveals that the majority of customer reviews are positive, with ratings clustering around 4–5 stars  
+- Ice Skates and Cycling Helmet received high engagement in likes and views, but had only moderate average ratings  
+- Social media metrics show peak engagement in March and July, with content-type breakdowns across Blog, Video, and Social  
 
 ---
 
