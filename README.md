@@ -25,7 +25,7 @@ The dataset was collected from multiple sources, including user activity logs, s
 
 **Python (Sentiment Analysis):**  
 - Cleaned and standardized customer review text  
-- Sentiment analysis performed using **NLTK's VADER tool**  
+- Sentiment analysis performed using **NLTK's VADER**  
 - Classified text into *Positive*, *Negative*, *Neutral*, or *Mixed* based on compound score  
 - Merged sentiment data with product and rating dimensions  
 
@@ -46,8 +46,6 @@ The dataset was collected from multiple sources, including user activity logs, s
 - **Power BI**: Interactive dashboards, DAX measures, drill-down capabilities  
 - **Python**: Sentiment analysis with `nltk.sentiment.vader` (VADER)  
 - **SQL Server**: Centralized data warehouse, ETL logic  
-- **Power Query**: Column transformation and joins  
-- **DAX**: Business logic for aggregations and KPIs  
 
 ---
 
