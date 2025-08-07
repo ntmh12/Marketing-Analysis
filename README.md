@@ -4,8 +4,6 @@ This Power BI dashboard delivers actionable insights into **customer behavior**,
 
 👉 [**View the live dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiOGRhMmMwYzgtMTQzOS00OTEzLWEzYWMtZjNlNWE5ODYwMTU1IiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 
----
-
 ## 📂 Key Features
 
 - Total views, clicks, likes, and conversion rate over time  
@@ -16,8 +14,6 @@ This Power BI dashboard delivers actionable insights into **customer behavior**,
 - Review sentiment analysis: *Positive*, *Negative*, *Neutral*, *Mixed*  
 - Interactive slicers for product, sentiment, date, and rating  
 - Visual storytelling across content types and campaign KPIs  
-
----
 
 ## 🧹 Data Preparation
 
@@ -39,15 +35,11 @@ The dataset was collected from multiple sources, including user activity logs, s
 - Used Power Query for table relationships and formatting  
 - Implemented interactive visuals and dynamic filtering  
 
----
-
 ## 🛠️ Tools & Technologies
 
 - **Power BI**: Interactive dashboards, DAX measures, drill-down capabilities  
 - **Python**: Sentiment analysis with `nltk.sentiment.vader` (VADER)  
 - **SQL Server**: Centralized data warehouse, ETL logic  
-
----
 
 ## 🗝️ Additional Highlights
 
