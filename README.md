@@ -2,7 +2,7 @@
 
 This Power BI dashboard delivers actionable insights into **customer behavior**, **conversion performance**, and **sentiment trends** across products. Built on a structured data warehouse using **MS SQL Server**, and enhanced with **sentiment analysis using NLTK's VADER tool**, the dashboard helps uncover what drives engagement and sales.
 
-👉 *[Add link to view the live dashboard if available]*
+👉 [**View the live dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiY2JiZTVlNTgtMGMzYy00MzBhLTk5NTItNDE3YzY0ODIyYTczIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 
 ---
 
